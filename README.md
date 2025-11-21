@@ -1,4 +1,4 @@
-# Project2 - rociolozanoaro 
+# Project2 - rociolozanocaro 
 ## **Data cleaning and processing.**
 ##### The steps followed are:
 ##### 1. Nulls were represented in different ways so we could decide better what to do with the data.
